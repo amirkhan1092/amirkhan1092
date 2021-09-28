@@ -1,4 +1,7 @@
-### Hi there 👋
+### amirkhan1092 ✍(◔◡◔)
+
+I like to train Machine Learning models for Humans.
+
 
 <!--
 **amirkhan1092/amirkhan1092** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
