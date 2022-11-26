@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 <img align="right" height="280px" alt="GIF" src="https://media1.giphy.com/media/bAplZhiLAsNnG/giphy.gif?cid=790b7611a2f55660a74ef691e9079a0360cc33d6a4a5b6d3&rid=giphy.gif&ct=g" />
 
-### I'm an Technical Trainer at [GLA University](https://www.gla.ac.in/)
+### I'm a Technical Trainer at [GLA University](https://www.gla.ac.in/)
 
 - 🔭 I’m currently working on my problem solving skills.
 - 🌱 I’m currently learning Computer Vision.
