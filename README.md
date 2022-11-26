@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Computer Vision.
 - 👯 I’m looking to collaborate with other Developers. :raised_hands:
 - 💬 Ask me about anything, I'm happy to help! :smile:
-- 📬 How to reach me: [Drop me a text!][linkedin](https://www.linkedin.com/in/amirkhan1092/)
+- 📬 How to reach me: [Drop me a text!](https://www.linkedin.com/in/amirkhan1092/)
 - ⚡ One fact about me: I love [Python.](https://www.python.org/)❤️
 - ⚡Another fact about me: I'm crazy about Post Rock Instrumentals. Check out [this playlist on spotify.](https://open.spotify.com/playlist/2cmd5Q6nCwHjnJ0X7ipyeL?si=TV6jtYowSj-qdnsjuZYVXw) :grin:
 - 🎵 Let's connect! I'd love to know the kind of music you listen to.
